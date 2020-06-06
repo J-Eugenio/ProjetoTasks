@@ -1,3 +1,3 @@
 # ProjetoTasks
 
-Projeto Desenvolvido em React Native & Node-JS para gerenciar tarfeas simples.
+Projeto Desenvolvido em React Native & Node-JS para gerenciar tarefas simples.
