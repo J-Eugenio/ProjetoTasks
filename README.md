@@ -10,5 +10,6 @@
 <a href="https://github.com/badges/shields"><img alt="Custom badge" src="https://img.shields.io/badge/custom-badge-f39f37.svg" height="20"/></a>
 <a href="https://github.com/J-Eugenio/FabSoft-SCO/graphs/commit-activity"><img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" height="20"/></a>
 </p>
-<p align="center"><img alt="mapa" src="https://raw.githubusercontent.com/J-Eugenio/Mapa/master/mapa.gif"/></p>
+<p> Projeto Desenvolvido em React Native & Node-JS para gerenciar tarefas simples. </p>
+<p align="center"><img alt="mapa" src="https://github.com/J-Eugenio/ProjetoTasks/blob/master/App/taks.jpg?raw=true"/></p>
 
